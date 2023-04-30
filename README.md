@@ -4,7 +4,7 @@ Visit me at www.bhaskartripathi.com for more details. Here are some details abou
 # My Machine Learning experience
 ``` mermaid
 mindmap
-root{{My Machine Learning Experience}}
+root{{BHASKAR TRIPATHI : Machine Learning Experience}}
   (Deep Learning)
     Convolutional Neural Networks (CNNs)
     Recurrent Neural Networks (RNNs)
@@ -50,7 +50,7 @@ root{{My Machine Learning Experience}}
 # My overall experience Summary
 ```mermaid
 mindmap
-root{{BHASKAR TRIPATHI}}
+root{{BHASKAR TRIPATHI : Overall Experience}}
   (REPORTING/ETL/ DATALAKES)
     Hyperion 9.0 (Oracle BI)
 	  Qlikview
@@ -122,7 +122,7 @@ root{{BHASKAR TRIPATHI}}
 # My Experience in Mathematical Optimization
 ``` mermaid
 mindmap
-root{{My Optimization and Evolutionary Algo experience}}
+root{{BHASKAR TRIPATHI : Optimization & Evolutionary Algo experience}}
   (Mathematical Optimization)
     Dynamic Programming
     Quadratic Programming
