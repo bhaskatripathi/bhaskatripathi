@@ -1,5 +1,21 @@
 ### Hi there 👋
-Visit me at www.bhaskartripathi.com for more details. Here are some details about my core skillsets:
+Visit me at www.bhaskartripathi.com for more details. 
+### ⚙️ &nbsp;My GitHub Statistics
+
+<p align="center">
+<a href="https://github.com/bhaskatripathi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhaskatripathi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhaskatripathi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Contact Me
+
+<p>
+<a href="https://www.linkedin.com/in/bhaskartripathi/"><img src="https://img.shields.io/badge/-bhaskartripathi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:vivek.p9737@gmail.com"><img src="https://img.shields.io/badge/-bhaskar.tripathi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/bt_veeru"><img src="https://img.shields.io/badge/-@bt_veeru-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
 
 # My Machine Learning experience
 ``` mermaid
