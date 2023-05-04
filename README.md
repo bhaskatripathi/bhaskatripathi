@@ -13,7 +13,7 @@ Visit me at www.bhaskartripathi.com for more details.
 
 <p>
 <a href="https://www.linkedin.com/in/bhaskartripathi/"><img src="https://img.shields.io/badge/-bhaskartripathi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vivek.p9737@gmail.com"><img src="https://img.shields.io/badge/-bhaskar.tripathi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:bhaskar.tripathi@gmail.com"><img src="https://img.shields.io/badge/-bhaskar.tripathi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/bt_veeru"><img src="https://img.shields.io/badge/-@bt_veeru-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
