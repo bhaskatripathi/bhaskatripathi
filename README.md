@@ -3,11 +3,17 @@ Visit me at www.bhaskartripathi.com for more details.
 ### ⚙️ &nbsp;My GitHub Statistics
 
 <p align="center">
-<a href="https://github.com/bhaskatripathi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhaskatripathi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhaskatripathi&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  Visit my GitHub for a portfolio of my work and stats:
+  <a href="https://github.com/bhaskatripathi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhaskatripathi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhaskatripathi&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+<p align="center">
+  For collaborations and discussions, book a meeting with me:
+  <a href="https://calendly.com/bhaskar-tripathi/30min">Schedule Here</a>
+</p>
+
 
 ### 🤝🏻 &nbsp;Contact Me
 
